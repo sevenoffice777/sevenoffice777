@@ -1,3 +1,2 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5a5a5a&height=180&section=header&text=Samuel Seven&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfb&size=35&center=true&vCenter=true&width=1000&lines=Olá+Meu+Nome+é+Samuel+Seven;Sou+Estudante+De+Desenvolvimento+de+Sistemas;Tenho+16+anos)](https://git.io/typing.svg)
