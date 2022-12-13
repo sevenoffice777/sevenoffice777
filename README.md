@@ -25,11 +25,6 @@
 
 </div>
 
-<div align="center">
-  
 
-  <img src="https://user-images.githubusercontent.com/107280565/207360873-b8481238-1845-42fa-a64b-abb0f32b5b02.png">
-  
-</div>
 
 
