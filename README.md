@@ -21,7 +21,7 @@
 
 <div align="center">
   
-![SevenOfice777 GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenOfice777&show_icons=true&theme=dracula)
+![SevenOfice777 GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenOfice777&show_icons=true&theme=classic)
 
 </div>
 
