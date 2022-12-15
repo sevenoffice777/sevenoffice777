@@ -14,16 +14,16 @@
   
   <img src="http://img.shields.io/static/v1?label=STATUS&message=OPEN-%20JOB&color=BLUE&style=for-the-badge"/>
 </p>
+<br>
 
-
+### Sou Front End
+> Tenho amor por linguagens de alto nivel
 
 <br>
 
-<div align="center">
-  
-![SevenOfice777 GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenOfice777&show_icons=true&theme=classic)
+> Aprendendo a Programar em Javascript e Python
 
-</div>
+
 
 
 
