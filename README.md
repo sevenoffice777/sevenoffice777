@@ -1,28 +1,25 @@
-<div align="center">
-  
-  # Seja Bem Vindo(a) a minha conta
-  
-</div>
+# Olá :computer:
 
+### Seja bem vindo(a) ao meu README :black_heart:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfb&size=35&center=true&vCenter=true&width=1000&lines=Olá+Meu+Nome+é+Samuel+Seven;Sou+Estudante+De+Desenvolvimento+de+Sistemas;Tenho+16+anos)](https://git.io/typing.svg)
+Meu nome é ***Samuel Seven***, tenho 16 anos e estou cursando desenvolvimento de sistemas na ***Etec Rodrigues de Abreu*** e tenho um amor compulsivo por programação, desde criança sempre gostei da tecnologia! Agora posso realmente fazer parte dela!
 
 
 
-<p align="center" width=700>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=ON-%20CODE&color=BLUE&style=for-the-badge"/>
-  
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=OPEN-%20JOB&color=BLUE&style=for-the-badge"/>
-</p>
-<br>
 
-### Sou Front End
-> Tenho amor por linguagens de alto nivel
+### Coisas Sobre mim?
 
-<br>
-
-> Aprendendo a Programar em Javascript e Python
-
+> #### Amo codar :heart:
+>
+> Prefiro Linguagens de Alto Nível como:
+>
+> - Java script :sun_with_face:
+>
+> - Python :snake:
+>
+> - PHP :mobile_phone_off:
+>
+>   <img src="http://img.shields.io/static/v1?label=STATUS&message=ON-%20CODE&color=BLUE&style=for-the-badge"/>
 
 
 
