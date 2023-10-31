@@ -11,21 +11,7 @@ Sou um entusiasta da tecnologia e apaixonado por tudo relacionado a desenvolvime
 - 🌐 **Programação Web** - Desenvolvimento de sites interativos e responsivos.
 - 🎨 **Design Gráfico** - Criação de interfaces atraentes e funcionais.
   
-  <div>
-    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-          
-  </div>
+  
 ## 🛠️ Tecnologias Favoritas
 
 - HTML5
