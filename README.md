@@ -2,7 +2,7 @@
   
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Meu+nome+é+Samuel+Seven;Eu+tenho+17+anos;Eu+sou+de+Bauru+(SP);Eu+sou+um+Desenvolvedor+Apaixonado;Seja+Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=55&center=true&vCenter=true&width=1000&wheight=bolder&lines=Ola,+Meu+nome+é+Samuel+Seven;Eu+tenho+17+anos;Eu+sou+de+Bauru+(SP);Eu+Sou+um+Desenvolvedor;Seja+Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 </div>
 
