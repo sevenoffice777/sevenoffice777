@@ -1,9 +1,7 @@
-<img src="https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-blue-big-data-the-internet-banner-image_17472.jpg" style="width:100%;border-radius:10px; height:300px"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  
+<img src="https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-blue-big-data-the-internet-banner-image_17472.jpg" style="width:100%;border-radius:10px; height:250px"/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=55&center=true&vCenter=true&width=1000&wheight=bolder&lines=Ola,+Meu+nome+é+Samuel+Seven;Eu+tenho+17+anos;Eu+sou+de+Bauru+(SP);Eu+Sou+um+Desenvolvedor;Seja+Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=55&center=true&vCenter=true&width=1000&wheight=bolder&lines=Ola,+Meu+nome+é+Samuel+Seven;Eu+tenho+17+anos;Eu+sou+de+Bauru+(SP);Eu+Sou+um+Desenvolvedor;Seja+Bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
 </div>
 
