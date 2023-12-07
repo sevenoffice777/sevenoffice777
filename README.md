@@ -1,4 +1,4 @@
-<img src="https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-blue-big-data-the-internet-banner-image_17472.jpg" style="width:100%; height:auto"/>
+<img src="https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-blue-big-data-the-internet-banner-image_17472.jpg" style="width:100%;border-radius:10px; height:300px"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
 <div align="center">
