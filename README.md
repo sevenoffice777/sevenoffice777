@@ -3,40 +3,25 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=40&center=true&vCenter=true&width=950&lines=Olá,+Meu+nome+é+Samuel+Seven;Sou+de+Bauru+(SP);Desenvolvedor+Front-End+e+Back-End;Seja+Bem-vindo(a)!+:%29" alt="Typing SVG" />
+
+# Olá, mundo! Eu sou o Samuel Seven 👋
+
+[![Status do Perfil](https://img.shields.io/badge/Status-Desenvolvedor%20FullStack-00bfbf?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sevenoffice777)
+
 </div>
 
 ---
 
-<h3 align="center">👋 Olá, mundo! Bem-vindo(a) ao meu perfil!</h3>
+<h3 align="center">🚀 Sobre Mim</h3>
 
 <p align="center">
-  Sou focado em criar soluções eficientes, automações e experiências web completas. Sempre buscando evolução técnica e independência financeira através da tecnologia. 🚀
+  Sou focado em criar soluções eficientes, automações e experiências web completas. Sempre buscando evolução técnica e independência financeira através da tecnologia.
 </p>
 
 <div align="center">
   <a href="https://www.instagram.com/samuel_seven777/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sevenoffice777&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Github Stats" width="48%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenoffice777&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sevenoffice777&theme=dracula&row=1&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevenoffice777&bg_color=0d1117&color=00bfbf&line=00bfbf&point=15e5a6&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -64,10 +49,5 @@
 ---
 
 <div align="center">
-  <br>
-  <b>Contador de Visitas</b><br><br>
-  <img src="https://profile-counter.glitch.me/sevenoffice777/count.svg" alt="Visitor Count" />
-  <br><br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer" />
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer" />
