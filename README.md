@@ -3,9 +3,7 @@
 </p>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=40&center=true&vCenter=true&width=950&lines=Olá,+Meu+nome+é+Samuel+Seven;Sou+de+Bauru+(SP);Desenvolvedor+Front-End+e+Back-End;Seja+Bem-vindo(a)!+:%29" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=40&center=true&vCenter=true&width=950&lines=Olá,+Meu+nome+é+Samuel+Seven;Sou+de+Bauru+(SP);Desenvolvedor+Front-End+e+Back-End;Seja+Bem-vindo(a)!+:%29" alt="Typing SVG" />
 </div>
 
 ---
@@ -24,18 +22,22 @@
 
 <br>
 
-<p align="center">  
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sevenoffice777&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Github Stats" width="48%" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenoffice777&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" width="48%" />
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sevenoffice777&theme=dracula&row=1&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
+</div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevenoffice777&bg_color=0d1117&color=00bfbf&line=00bfbf&point=15e5a6&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
+</div>
 
 ---
 
@@ -64,7 +66,7 @@
 <div align="center">
   <br>
   <b>Contador de Visitas</b><br><br>
-  <img src="https://profile-counter.glitch.me/{sevenofice777}/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/sevenoffice777/count.svg" alt="Visitor Count" />
   <br><br>
 </div>
 
