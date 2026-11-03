@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=45&center=true&vCenter=true&width=900&lines=Olá,+Meu+nome+é+Samuel+Seven;Sou+de+Bauru+(SP);Desenvolvedor+Front-End+e+Back-End;Seja+Bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com/?color=00bfff&size=40&center=true&vCenter=true&width=950&lines=Olá,+Meu+nome+é+Samuel+Seven;Sou+de+Bauru+(SP);Desenvolvedor+Front-End+e+Back-End;Seja+Bem-vindo(a)!+:%29" alt="Typing SVG" />
 
 </div>
 
@@ -24,22 +24,18 @@
 
 <br>
 
-<div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sevenoffice777&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="SevenOffice777 github stats" /> 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenoffice777&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" />
-</div>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=sevenoffice777&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Github Stats" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevenoffice777&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Top Langs" width="48%" />
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sevenoffice777&theme=dracula&row=1&no-bg=true&column=3&margin-w=15&margin-h=15" alt="Trophies" />
-</div>
+</p>
 
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevenoffice777&bg_color=0d1117&color=00bfbf&line=00bfbf&point=15e5a6&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sevenoffice777&bg_color=0d1117&color=00bfbf&line=00bfbf&point=15e5a6&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
 
 ---
 
